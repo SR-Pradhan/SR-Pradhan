@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sruti Ranjan Pradhan</h1>
 <h3 align="center">A passionate Full-stack Java Developer from India</h3>
+<h3 align="center">This is my personal GitHub Profile README</h3>
+<p align="center">Showcasing my journey as a <b>Full-stack Java Developer</b>, leader of the <b>Cybernetics Tech Club</b>, and a passionate creative who tells stories through <b>code, design, photography, and videography.</b></p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sr-pradhan&label=Profile%20views&color=0e75b6&style=flat" alt="sr-pradhan" /> </p>
 
