@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **pradhansr2003@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/44LPl2t](https://bit.ly/44LPl2t)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
