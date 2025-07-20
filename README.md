@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **DIMTS, as a Full-stack Java Developer Intern**
 
-- 🌱 I’m currently learning **Servlet, JSP, Hibernate, JPA, JDBC & DSA**
+- 🌱 I’m currently learning **Servlet, JSP, Hibernate, JPA, JDBC & DS**
 
 - 📫 How to reach me **pradhansr2003@gmail.com**
 
