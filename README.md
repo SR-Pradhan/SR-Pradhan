@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sruti Ranjan Pradhan</h1>
-<h3 align="center">A passionate Full-stack Java Developer from Inda</h3>
+<h3 align="center">A passionate Full-stack Java Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sr-pradhan&label=Profile%20views&color=0e75b6&style=flat" alt="sr-pradhan" /> </p>
 
