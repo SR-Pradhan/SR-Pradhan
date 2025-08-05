@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pradhansr2003@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/SrResume](https://bit.ly/SrResume)
+- 📄 Know about my experiences [https://bit.ly/SrResume](https://bit.ly/4mvzBYx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
