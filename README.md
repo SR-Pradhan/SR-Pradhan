@@ -8,9 +8,8 @@
 - 🎯 Ex-President & Current Vice President, Cybernautics Tech Club  
 - 🎵 Social Media Manager, Saptak – Music Club, GDGU  
 
-- 🌱 Currently mastering **Spring Boot, Microservices & System Design**  
-- 👯 Open to collaborating on **scalable backend & full-stack Java projects**  
-- 💬 Ask me about **Java, DSA, Backend Development & APIs**  
+- 🌱 Currently mastering **Spring Boot, Microservices & DSA**  
+- 👯 Open to collaborating on **scalable backend & full-stack Java projects**   
 
 - 👨‍💻 All of my projects are available at [https://sr-pradhan.github.io/My-Portfolio/](https://sr-pradhan.github.io/My-Portfolio/)
 
