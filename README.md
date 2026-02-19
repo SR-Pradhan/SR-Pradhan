@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sruti Ranjan Pradhan</h1>
+<h3 align="center">Full Stack Java Developer Intern @DIMTS | Vice President, Cybernautics | Java Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sr-pradhan&label=Profile%20views&color=0e75b6&style=flat" alt="sr-pradhan" /> </p>
 
