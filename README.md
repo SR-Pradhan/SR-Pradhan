@@ -8,9 +8,8 @@
 - 🔭 Ex–Full Stack Java Developer Intern @ DIMTS  
 - 🎯 Ex-President & Current Vice President, Cybernautics Tech Club  
 - 🎵 Social Media Manager, Saptak – Music Club, GDGU  
-- 🌱 Currently mastering **Spring Boot, Microservices & System Design**  
+- 🌱 Currently mastering **Spring Boot, Microservices & DSA**  
 - 🤝 Open to collaborating on **scalable backend & full-stack Java projects**  
-- 💬 Ask me about **Java, DSA, APIs & Backend Architecture**
 
 ---
 
