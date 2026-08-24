@@ -240,32 +240,42 @@ timeline
 </div>
 
 <!-- ═══════════════════════ CODING PROFILES ═══════════════════════ -->
+
 ## ⚔️ Competitive Programming
 
 <div align="center">
 
-<a href="https://leetcode.com/SR_Pradhan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.geeksforgeeks.org/user/pradhanj44o"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/sr_pradhan"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/SR_Pradhan"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://leetcode.com/SR_Pradhan">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/pradhanj44o">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/sr_pradhan">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<a href="https://codeforces.com/profile/SR_Pradhan">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
-<br/>
+</div>
+
 <!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
+
 ## 🏆 Achievements
 
 <div align="center">
 
 | 🏅 | Achievement |
-|:--:|:------------|
+|:---:|:---|
 | 🥈 | **2nd Prize** — 1st Pay-Check Challenge (₹3,000 reward) |
 | 🏆 | **Ranked 4th** — Nexify'25 Hackathon, AI-powered health assistant |
 | 🧠 | **300+ coding problems** — LeetCode · GeeksforGeeks · HackerRank |
-| 🎤 | **Led SyntaxSprint'25** — Pan-India hackathon, 100+ participants |
-| 👨‍🏫 | **Conducted Python Series 1.0 & 2.0** as Cybernautics President |
+| 🎤 | **Led SyntaxSprint'25** — Pan-India hackathon with 100+ participants |
+| 👨‍🏫 | **Conducted Python Series 1.0 & 2.0** — Cybernautics |
 | 🎓 | **CGPA 9.51** — B.Tech CSE, GD Goenka University |
 
 </div>
-
 <!-- ═══════════════════════ FUN ═══════════════════════ -->
 ## 🎯 Dev Quote of the Day
 
