@@ -249,12 +249,7 @@ timeline
 <a href="https://www.codechef.com/users/sr_pradhan"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/SR_Pradhan"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
-<br/><br/>
-
-<img src="https://leetcard.jacoblin.cool/SR_Pradhan?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=14" alt="LeetCode stats"/>
-
-</div>
-
+<br/>
 <!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
 ## 🏆 Achievements
 
