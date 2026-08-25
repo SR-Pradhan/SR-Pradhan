@@ -108,91 +108,6 @@ class SrutiRanjanPradhan:
 
 </details>
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-## 💡 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Solvix
-**AI-powered DSA preparation platform**
-
-Analyses LeetCode & Codeforces submissions to surface weak topics, then generates AI study plans with spaced-repetition reminders driven by accuracy, difficulty and problem staleness. Ships AI mock interviews and weekly progress reports.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LLM](https://img.shields.io/badge/-LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-<a href="https://github.com/SR-Pradhan/Solvix"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 DoCure.ai
-**Multimodal AI healthcare assistant**
-
-Text, voice and image based health assistance built on Groq LLMs, OpenAI Whisper and LLaMA 3 Vision — nutrition guidance, voice consultation, doctor discovery and symptom analysis in one workflow.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square&logo=lightning&logoColor=white)
-![Whisper](https://img.shields.io/badge/-Whisper-000000?style=flat-square&logo=openai&logoColor=white)
-![LLaMA](https://img.shields.io/badge/-LLaMA_3_Vision-0866FF?style=flat-square&logo=meta&logoColor=white)
-
-<a href="https://github.com/SR-Pradhan/DoCure.ai"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 😴 Real-Time Drowsiness Detection
-**Driver-monitoring computer vision system**
-
-Facial-landmark detection with Eye Aspect Ratio (EAR) to catch prolonged eye closure in real time, firing instant alerts to the driver.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![dlib](https://img.shields.io/badge/-dlib-008C8C?style=flat-square&logo=python&logoColor=white)
-
-<a href="https://github.com/SR-Pradhan/real-time-drowsiness-detection"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 OnlineQuizWebApp
-**Enterprise quiz platform @ DIMTS**
-
-MVC-architected quiz system with dynamic workflows and real-time evaluation for concurrent users, backed by optimized SQL Server queries.
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JSP](https://img.shields.io/badge/-JSP_/_Servlets-007396?style=flat-square&logo=java&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-<a href="https://github.com/SR-Pradhan/OnlineQuizWebApp"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
-</div>
-
-### 📦 More Work
-
-<div align="center">
-
-| Repository | What it is | Stack |
-|:--|:--|:--|
-| [**CFI-Road-Safety**](https://github.com/SR-Pradhan/CFI-Road-Safety) ⭐ | AI road-safety analytics pipeline for traffic-violation detection | `Python` `CV` |
-| [**secure-auth-system**](https://github.com/SR-Pradhan/secure-auth-system) | Production-style auth with Spring Security + JWT | `Java` `Spring Boot` |
-| [**ReTrace**](https://github.com/SR-Pradhan/ReTrace) | Python tooling project | `Python` |
-| [**Fresh-Fuel**](https://github.com/SR-Pradhan/Fresh-Fuel) 🥈 | Gym-supplement e-commerce — 2nd place, Pay-Check Challenge | `Shopify` |
-| [**Pattern-Wise-DSA**](https://github.com/SR-Pradhan/Pattern-Wise-DSA) | Pattern-wise DSA solutions, optimised and documented | `Java` |
-| [**LeetCode-Problems**](https://github.com/SR-Pradhan/LeetCode-Problems) | Ongoing LeetCode solution archive | `Java` |
-
-</div>
-
 <!-- ═══════════════════════ TIMELINE ═══════════════════════ -->
 ## 🧭 Journey So Far
 
@@ -212,38 +127,32 @@ timeline
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SR-Pradhan&theme=tokyonight"/>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=SR-Pradhan&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SR-Pradhan&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SR-Pradhan&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SR-Pradhan&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SR-Pradhan&theme=tokyonight&utcOffset=5.5"/>
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SR-Pradhan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SR-Pradhan&theme=tokyonight" alt="GitHub profile details"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SR-Pradhan&theme=tokyonight" alt="GitHub stats"/>
 
 </div>
 
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
-### 🐍 Watch my contributions get eaten
-
+<!-- GH-STATS:START -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SR-Pradhan/SR-Pradhan/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SR-Pradhan/SR-Pradhan/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SR-Pradhan/SR-Pradhan/output/github-snake.svg" width="96%"/>
-</picture>
+
+| Public repos | Stars earned | Followers | Most-used languages |
+|:---:|:---:|:---:|:---|
+| **22** | **1** | **4** | Java (9), Python (5), TypeScript (2) |
+
+<sub>Auto-updated daily · last synced 25 Aug 2026 UTC</sub>
+
 </div>
+<!-- GH-STATS:END -->
 
 <!-- ═══════════════════════ CODING PROFILES ═══════════════════════ -->
 
 ## ⚔️ Competitive Programming
 
 <div align="center">
+
+<img width="62%" src="https://leetcard.jacoblin.cool/SR_Pradhan?ext=heatmap&theme=dark&font=JetBrains%20Mono&border=0&radius=12" alt="LeetCode stats and submission heatmap"/>
+
+<br/>
 
 <a href="https://leetcode.com/SR_Pradhan">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -276,6 +185,7 @@ timeline
 | 🎓 | **CGPA 9.51** — B.Tech CSE, GD Goenka University |
 
 </div>
+
 <!-- ═══════════════════════ FUN ═══════════════════════ -->
 ## 🎯 Dev Quote of the Day
 
