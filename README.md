@@ -127,22 +127,10 @@ timeline
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SR-Pradhan&theme=tokyonight" alt="GitHub profile details"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SR-Pradhan&theme=tokyonight" alt="GitHub stats"/>
+<img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SR-Pradhan&theme=tokyonight" alt="GitHub profile details"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SR-Pradhan&theme=tokyonight" alt="GitHub stats"/>
 
 </div>
-
-<!-- GH-STATS:START -->
-<div align="center">
-
-| Public repos | Stars earned | Followers | Most-used languages |
-|:---:|:---:|:---:|:---|
-| **22** | **1** | **4** | Java (9), Python (5), TypeScript (2) |
-
-<sub>Auto-updated daily · last synced 25 Aug 2026 UTC</sub>
-
-</div>
-<!-- GH-STATS:END -->
 
 <!-- ═══════════════════════ CODING PROFILES ═══════════════════════ -->
 
@@ -150,7 +138,7 @@ timeline
 
 <div align="center">
 
-<img width="62%" src="https://leetcard.jacoblin.cool/SR_Pradhan?ext=heatmap&theme=dark&font=JetBrains%20Mono&border=0&radius=12" alt="LeetCode stats and submission heatmap"/>
+<img width="62%" src="https://leetcard.jacoblin.cool/SR_Pradhan?theme=dark&font=JetBrains%20Mono&border=0&radius=12" alt="LeetCode stats"/>
 
 <br/>
 
